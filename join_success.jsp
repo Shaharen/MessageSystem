@@ -4,7 +4,7 @@
 <html>
 	<head>
 		<title>Forty by HTML5 UP</title>
-		<meta charset="UTF-8" />
+		<meta charset="UTF-8" /> 
 		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 		<!--[if lte IE 8]><script src="assets/js/ie/html5shiv.js"></script><![endif]-->
 		<link rel="stylesheet" href="assets/css/main.css" />
